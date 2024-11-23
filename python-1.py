@@ -6,7 +6,7 @@ menu = {
     'coffee': 80,
 }
 
-print("Welcome to Python Restaurant")
+print("Welcome to Krishna Cafe")
 print("pizza: 60 Rs\nPasta: 40 Rs\nBurger: 60 Rs\nsalad: 70 Rs\ncoffee: 80 Rs")
 
 order_total = 0
